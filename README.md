@@ -20,7 +20,6 @@ A Java-based Bus Reservation System that allows users to search, book, cancel, a
 
 - **Java (Core Java + OOPs)**
 - **File Handling / MySQL (optional DB)**
-- **Spring Boot**
 - **Object-Oriented Programming Principles**
 
 ---
